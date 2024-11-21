@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class IT24104089Lab3Q1B {
+public class IT24104018Lab3Q1B {
 	public static void main (String[]args){
 		// Defining the variables
 		double pricePerkg,quantity,totalAmount,Discount_amount, Discount;
